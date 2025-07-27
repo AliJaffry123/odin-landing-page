@@ -73,7 +73,7 @@ button.sign-up{
 
 .image{
     background-color: grey;
-    color: #F9FAF8;
+    height: 260px;
 
     display: flex;
     flex: 1;
@@ -88,4 +88,9 @@ button.sign-up{
 
 div p {
     padding-right: 120px;
+}
+
+.image img {
+  width: 100%;
+  height: 100%;
 }
