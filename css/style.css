@@ -94,3 +94,35 @@ div p {
   width: 100%;
   height: 100%;
 }
+
+.section-3{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-color: lightgrey;
+
+    display: flex;
+    flex-direction: column;
+
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.quote{
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.name{
+    margin-top: 5px;
+    padding-right: 350px;
+    color: #1F2937;
+    font-weight: 900;
+    font-size: 24px;
+
+    display: flex;
+    justify-content: flex-end;
+}
