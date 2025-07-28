@@ -175,3 +175,35 @@ img {
 div .text2{
     padding-top: 4px;
 }
+
+.flex-container-4{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    background: #3882F6;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 325px;
+    margin-right: 325px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: 5px solid #3882F6;
+    border-radius: 8px;
+}
+
+.flex-container-4 button{
+    border-radius: 8px;
+    border: 2px solid white;
+    font-size: 15px;
+}
+
+.flex-container-4 div{
+    color: white;
+}
+
+.write1{
+    font-size: 24px;
+    font-weight: 900;
+}
